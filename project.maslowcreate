@@ -8,6 +8,15 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "GitHubMolecule",
+            "name": "seat 1",
+            "x": 0.18318068276436303,
+            "y": 0.5868852459016394,
+            "uniqueID": 427026,
+            "projectID": "274257660",
+            "ioValues": []
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9833472106577851,
@@ -16,5 +25,7 @@
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": "1"
 }
