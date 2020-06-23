@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "Ercol Bench 1",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 498145,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9833472106577851,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
