@@ -9,10 +9,32 @@
     "allAtoms": [
         {
             "atomType": "GitHubMolecule",
+            "name": "SPINDLE",
+            "x": 0.22800718132854578,
+            "y": 0.3848396501457726,
+            "uniqueID": 581054,
+            "projectID": "273768522",
+            "ioValues": [
+                {
+                    "name": "tenon",
+                    "ioValue": 0.75
+                },
+                {
+                    "name": "widest spindle diameterÃÂ ",
+                    "ioValue": 1
+                },
+                {
+                    "name": "spindle length",
+                    "ioValue": 25
+                }
+            ]
+        },
+        {
+            "atomType": "GitHubMolecule",
             "name": "seat 1",
-            "x": 0.21125074805505686,
-            "y": 0.4227405247813411,
-            "uniqueID": 261710,
+            "x": 0.16337522441651706,
+            "y": 0.6268221574344023,
+            "uniqueID": 221222,
             "projectID": "274257660",
             "ioValues": [
                 {
@@ -25,11 +47,11 @@
                 },
                 {
                     "name": "Distance betw. seat dentsÃÂ ",
-                    "ioValue": 19
+                    "ioValue": 10
                 },
                 {
                     "name": "Seat dent width",
-                    "ioValue": 0
+                    "ioValue": 19
                 },
                 {
                     "name": "Seat side width",
