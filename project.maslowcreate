@@ -10,11 +10,32 @@
         {
             "atomType": "GitHubMolecule",
             "name": "seat 1",
-            "x": 0.18318068276436303,
-            "y": 0.5868852459016394,
-            "uniqueID": 427026,
+            "x": 0.21125074805505686,
+            "y": 0.4227405247813411,
+            "uniqueID": 261710,
             "projectID": "274257660",
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "Seat taper",
+                    "ioValue": 7
+                },
+                {
+                    "name": "Seat Length",
+                    "ioValue": 50
+                },
+                {
+                    "name": "Distance betw. seat dentsÃÂ ",
+                    "ioValue": 19
+                },
+                {
+                    "name": "Seat dent width",
+                    "ioValue": 0
+                },
+                {
+                    "name": "Seat side width",
+                    "ioValue": 20
+                }
+            ]
         },
         {
             "atomType": "Output",
