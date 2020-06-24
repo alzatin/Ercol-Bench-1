@@ -10,14 +10,14 @@
         {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.22800718132854578,
-            "y": 0.3848396501457726,
+            "x": 0.20885697187312988,
+            "y": 0.32653061224489793,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
                 {
                     "name": "tenon",
-                    "ioValue": 0.75
+                    "ioValue": 0.5
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
@@ -25,15 +25,36 @@
                 },
                 {
                     "name": "spindle length",
-                    "ioValue": 25
+                    "ioValue": 15
+                }
+            ]
+        },
+        {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.3141831238779174,
+            "y": 0.3236151603498542,
+            "uniqueID": 290783,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": 7
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 18
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 7
                 }
             ]
         },
         {
             "atomType": "GitHubMolecule",
             "name": "seat 1",
-            "x": 0.16337522441651706,
-            "y": 0.6268221574344023,
+            "x": 0.19449431478156792,
+            "y": 0.629737609329446,
             "uniqueID": 221222,
             "projectID": "274257660",
             "ioValues": [
@@ -60,6 +81,23 @@
             ]
         },
         {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.4153201675643327,
+            "y": 0.5247813411078718,
+            "uniqueID": 203316,
+            "ioValues": [
+                {
+                    "name": "3D shape 1",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 2",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9833472106577851,
@@ -67,7 +105,29 @@
             "ioValues": []
         }
     ],
-    "allConnectors": [],
+    "allConnectors": [
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 581054,
+            "ap2ID": 290783
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 290783,
+            "ap2ID": 203316
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 1",
+            "ap2Primary": false,
+            "ap1ID": 221222,
+            "ap2ID": 203316
+        }
+    ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
     "circleSegmentSize": "1"
