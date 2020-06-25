@@ -48,8 +48,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.3541507996953541,
-            "y": 0.3032069970845481,
+            "x": 0.3533891850723534,
+            "y": 0.23906705539358603,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
@@ -68,31 +68,10 @@
             ]
         },
         {
-            "atomType": "Translate",
-            "name": "Translate",
-            "x": 0.48895658796648894,
-            "y": 0.3965014577259475,
-            "uniqueID": 781908,
-            "ioValues": [
-                {
-                    "name": "xDist",
-                    "ioValue": 2
-                },
-                {
-                    "name": "yDist",
-                    "ioValue": 17
-                },
-                {
-                    "name": "zDist",
-                    "ioValue": 7
-                }
-            ]
-        },
-        {
             "atomType": "GitHubMolecule",
             "name": "seat 1",
-            "x": 0.19449431478156792,
-            "y": 0.629737609329446,
+            "x": 0.27494287890327496,
+            "y": 0.39941690962099125,
             "uniqueID": 221222,
             "projectID": "274257660",
             "ioValues": [
@@ -119,10 +98,31 @@
             ]
         },
         {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.46382330540746386,
+            "y": 0.2040816326530612,
+            "uniqueID": 781908,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": 2
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 17.5
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 7
+                }
+            ]
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.591012947448591,
-            "y": 0.5422740524781341,
+            "x": 0.5932977913175933,
+            "y": 0.282798833819242,
             "uniqueID": 910375,
             "ioValues": [
                 {
@@ -166,17 +166,17 @@
             "ap2ID": 781908
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 2",
-            "ap2Primary": false,
-            "ap1ID": 781908,
-            "ap2ID": 910375
-        },
-        {
             "ap1Name": "Geometry",
             "ap2Name": "3D shape 1",
             "ap2Primary": false,
             "ap1ID": 221222,
+            "ap2ID": 910375
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 781908,
             "ap2ID": 910375
         }
     ],
