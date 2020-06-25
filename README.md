@@ -7,6 +7,12 @@
 ## Ercol Bench 1
 
 
+## Linear Repeat
+
+
+Repeat geometry in a straight line
+
+
 ## seat 1
 
 

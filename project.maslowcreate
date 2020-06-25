@@ -10,8 +10,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.20885697187312988,
-            "y": 0.32653061224489793,
+            "x": 0.15765422696115766,
+            "y": 0.30903790087463556,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 1
+                    "ioValue": 2
                 },
                 {
                     "name": "spindle length",
@@ -30,23 +30,24 @@
             ]
         },
         {
-            "atomType": "Translate",
-            "name": "Translate",
-            "x": 0.3141831238779174,
-            "y": 0.3236151603498542,
-            "uniqueID": 290783,
+            "atomType": "GitHubMolecule",
+            "name": "Linear Repeat",
+            "x": 0.34044173648134046,
+            "y": 0.3469387755102041,
+            "uniqueID": 852223,
+            "projectID": "257972737",
             "ioValues": [
                 {
-                    "name": "xDist",
-                    "ioValue": 7
+                    "name": "Number of repeats",
+                    "ioValue": 3
                 },
                 {
-                    "name": "yDist",
-                    "ioValue": 18
+                    "name": "x distance",
+                    "ioValue": 10
                 },
                 {
-                    "name": "zDist",
-                    "ioValue": 7
+                    "name": "y distance",
+                    "ioValue": 10
                 }
             ]
         },
@@ -83,8 +84,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.4153201675643327,
-            "y": 0.5247813411078718,
+            "x": 0.5316070068545317,
+            "y": 0.4985422740524781,
             "uniqueID": 203316,
             "ioValues": [
                 {
@@ -92,7 +93,7 @@
                     "ioValue": 10
                 },
                 {
-                    "name": "3D shape 2",
+                    "name": "3D shape 3",
                     "ioValue": 10
                 }
             ]
@@ -108,16 +109,16 @@
     "allConnectors": [
         {
             "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
+            "ap2Name": "Geometry",
+            "ap2Primary": false,
             "ap1ID": 581054,
-            "ap2ID": 290783
+            "ap2ID": 852223
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 2",
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 3",
             "ap2Primary": false,
-            "ap1ID": 290783,
+            "ap1ID": 852223,
             "ap2ID": 203316
         },
         {
