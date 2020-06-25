@@ -10,8 +10,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.15765422696115766,
-            "y": 0.30903790087463556,
+            "x": 0.15384615384615385,
+            "y": 0.34402332361516036,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 2
+                    "ioValue": 1.5
                 },
                 {
                     "name": "spindle length",
@@ -32,8 +32,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.34044173648134046,
-            "y": 0.3469387755102041,
+            "x": 0.3495811119573496,
+            "y": 0.34110787172011664,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
@@ -47,7 +47,7 @@
                 },
                 {
                     "name": "y distance",
-                    "ioValue": 10
+                    "ioValue": 0
                 }
             ]
         },
@@ -84,8 +84,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.5316070068545317,
-            "y": 0.4985422740524781,
+            "x": 0.5338918507235338,
+            "y": 0.5102040816326531,
             "uniqueID": 203316,
             "ioValues": [
                 {
