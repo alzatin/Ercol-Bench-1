@@ -8,10 +8,26 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "Constant",
+            "name": "Constant",
+            "x": 0.13404417364813404,
+            "y": 0.1574344023323615,
+            "uniqueID": 978265,
+            "ioValues": [
+                {
+                    "name": "number",
+                    "ioValue": 3
+                }
+            ],
+            "evolve": false,
+            "min": 0,
+            "max": 20
+        },
+        {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
             "x": 0.15384615384615385,
-            "y": 0.34402332361516036,
+            "y": 0.35568513119533524,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
@@ -21,7 +37,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 10
+                    "ioValue": 1.5
                 },
                 {
                     "name": "spindle length",
@@ -32,18 +48,18 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.341964965727342,
-            "y": 0.314868804664723,
+            "x": 0.3472962680883473,
+            "y": 0.27988338192419826,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
                 {
-                    "name": "Number of repeats",
+                    "name": "repeats",
                     "ioValue": 3
                 },
                 {
                     "name": "x distance",
-                    "ioValue": 10
+                    "ioValue": 3
                 },
                 {
                     "name": "y distance",
@@ -84,8 +100,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.5308453922315308,
-            "y": 0.5160349854227405,
+            "x": 0.6108149276466108,
+            "y": 0.48104956268221577,
             "uniqueID": 203316,
             "ioValues": [
                 {
@@ -107,6 +123,13 @@
         }
     ],
     "allConnectors": [
+        {
+            "ap1Name": "number",
+            "ap2Name": "repeats",
+            "ap2Primary": false,
+            "ap1ID": 978265,
+            "ap2ID": 852223
+        },
         {
             "ap1Name": "Geometry",
             "ap2Name": "Geometry",
