@@ -119,10 +119,19 @@
             ]
         },
         {
+            "atomType": "GitHubMolecule",
+            "name": "Erco Bench Back",
+            "x": 0.15140634350688212,
+            "y": 0.7113702623906705,
+            "uniqueID": 940910,
+            "projectID": "275013729",
+            "ioValues": []
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.6163973668461998,
-            "y": 0.45772594752186585,
+            "x": 0.6134051466187912,
+            "y": 0.45481049562682213,
             "uniqueID": 516327,
             "ioValues": [
                 {
@@ -142,8 +151,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Erco Bench Back",
-            "x": 0.21304608019150212,
-            "y": 0.7405247813411079,
+            "x": 0.21005385996409337,
+            "y": 0.760932944606414,
             "uniqueID": 655005,
             "projectID": "275013729",
             "ioValues": []
@@ -151,13 +160,13 @@
         {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.3985637342908438,
+            "x": 0.39916217833632556,
             "y": 0.8163265306122448,
             "uniqueID": 477310,
             "ioValues": [
                 {
                     "name": "xDist",
-                    "ioValue": 25
+                    "ioValue": 27
                 },
                 {
                     "name": "yDist",
