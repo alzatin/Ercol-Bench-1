@@ -48,8 +48,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.34769599042489524,
-            "y": 0.23323615160349856,
+            "x": 0.3511043412033511,
+            "y": 0.2040816326530612,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
@@ -68,31 +68,19 @@
             ]
         },
         {
-            "atomType": "Translate",
-            "name": "Translate",
-            "x": 0.4668697638994669,
-            "y": 0.18075801749271136,
-            "uniqueID": 781908,
-            "ioValues": [
-                {
-                    "name": "xDist",
-                    "ioValue": 2
-                },
-                {
-                    "name": "yDist",
-                    "ioValue": 17.5
-                },
-                {
-                    "name": "zDist",
-                    "ioValue": 7
-                }
-            ]
+            "atomType": "GitHubMolecule",
+            "name": "Erco Bench Back",
+            "x": 0.09900990099009901,
+            "y": 0.44897959183673475,
+            "uniqueID": 655005,
+            "projectID": "275013729",
+            "ioValues": []
         },
         {
             "atomType": "GitHubMolecule",
             "name": "seat 1",
-            "x": 0.2926391382405745,
-            "y": 0.4693877551020408,
+            "x": 0.2985529322162985,
+            "y": 0.3498542274052478,
             "uniqueID": 221222,
             "projectID": "274257660",
             "ioValues": [
@@ -119,49 +107,31 @@
             ]
         },
         {
-            "atomType": "GitHubMolecule",
-            "name": "Erco Bench Back",
-            "x": 0.15140634350688212,
-            "y": 0.7113702623906705,
-            "uniqueID": 940910,
-            "projectID": "275013729",
-            "ioValues": []
-        },
-        {
-            "atomType": "Assembly",
-            "name": "Assembly",
-            "x": 0.6134051466187912,
-            "y": 0.45481049562682213,
-            "uniqueID": 516327,
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.46763137852246767,
+            "y": 0.18658892128279883,
+            "uniqueID": 781908,
             "ioValues": [
                 {
-                    "name": "3D shape 1",
-                    "ioValue": 10
+                    "name": "xDist",
+                    "ioValue": 2
                 },
                 {
-                    "name": "3D shape 2",
-                    "ioValue": 10
+                    "name": "yDist",
+                    "ioValue": 17.5
                 },
                 {
-                    "name": "3D shape 3",
-                    "ioValue": 10
+                    "name": "zDist",
+                    "ioValue": 7
                 }
             ]
         },
         {
-            "atomType": "GitHubMolecule",
-            "name": "Erco Bench Back",
-            "x": 0.21005385996409337,
-            "y": 0.760932944606414,
-            "uniqueID": 655005,
-            "projectID": "275013729",
-            "ioValues": []
-        },
-        {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.39916217833632556,
-            "y": 0.8163265306122448,
+            "x": 0.3389185072353389,
+            "y": 0.47521865889212833,
             "uniqueID": 477310,
             "ioValues": [
                 {
@@ -175,6 +145,49 @@
                 {
                     "name": "zDist",
                     "ioValue": 13
+                }
+            ]
+        },
+        {
+            "atomType": "GitHubMolecule",
+            "name": "SPINDLE",
+            "x": 0.15613099771515612,
+            "y": 0.8192419825072886,
+            "uniqueID": 983986,
+            "projectID": "273768522",
+            "ioValues": [
+                {
+                    "name": "tenon",
+                    "ioValue": 0.5
+                },
+                {
+                    "name": "widest spindle diameterÃÂ ",
+                    "ioValue": 1.5
+                },
+                {
+                    "name": "spindle length",
+                    "ioValue": 15
+                }
+            ]
+        },
+        {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.7387661843107387,
+            "y": 0.4927113702623907,
+            "uniqueID": 516327,
+            "ioValues": [
+                {
+                    "name": "3D shape 1",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 2",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 3",
+                    "ioValue": 10
                 }
             ]
         },
@@ -209,11 +222,11 @@
             "ap2ID": 781908
         },
         {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 1",
-            "ap2Primary": false,
-            "ap1ID": 781908,
-            "ap2ID": 516327
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 655005,
+            "ap2ID": 477310
         },
         {
             "ap1Name": "Geometry",
@@ -223,11 +236,11 @@
             "ap2ID": 516327
         },
         {
-            "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 655005,
-            "ap2ID": 477310
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 1",
+            "ap2Primary": false,
+            "ap1ID": 781908,
+            "ap2ID": 516327
         },
         {
             "ap1Name": "geometry",
