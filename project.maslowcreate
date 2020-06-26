@@ -295,8 +295,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.7402894135567404,
-            "y": 0.44023323615160354,
+            "x": 0.7448591012947448,
+            "y": 0.4314868804664723,
             "uniqueID": 516327,
             "ioValues": [
                 {
@@ -324,21 +324,21 @@
         {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.6473724295506473,
-            "y": 0.6647230320699709,
+            "x": 0.638994668697639,
+            "y": 0.7288629737609329,
             "uniqueID": 871527,
             "ioValues": [
                 {
                     "name": "xDist",
-                    "ioValue": 54
+                    "ioValue": 49.5
                 },
                 {
                     "name": "yDist",
-                    "ioValue": 0
+                    "ioValue": 1
                 },
                 {
                     "name": "zDist",
-                    "ioValue": 0
+                    "ioValue": -1
                 }
             ]
         },
