@@ -37,7 +37,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 1.5
+                    "ioValue": 10
                 },
                 {
                     "name": "spindle length",
@@ -55,7 +55,7 @@
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 13
+                    "ioValue": 3
                 },
                 {
                     "name": "x distance",
@@ -162,7 +162,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 1.5
+                    "ioValue": 10
                 },
                 {
                     "name": "spindle length",
