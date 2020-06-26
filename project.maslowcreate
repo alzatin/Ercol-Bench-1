@@ -48,8 +48,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.348057882711348,
-            "y": 0.19825072886297376,
+            "x": 0.34709754637941354,
+            "y": 0.21574344023323616,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
@@ -121,17 +121,38 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Erco Bench Back",
-            "x": 0.22315308453922314,
-            "y": 0.7580174927113703,
+            "x": 0.2232196289646918,
+            "y": 0.7463556851311953,
             "uniqueID": 655005,
             "projectID": "275013729",
             "ioValues": []
         },
         {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.39796529024536204,
+            "y": 0.7784256559766763,
+            "uniqueID": 477310,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": -5
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 17.5
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 13
+                }
+            ]
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.6648895658796649,
-            "y": 0.5889212827988338,
+            "x": 0.6714542190305207,
+            "y": 0.6064139941690962,
             "uniqueID": 910375,
             "ioValues": [
                 {
@@ -145,27 +166,6 @@
                 {
                     "name": "3D shape 3",
                     "ioValue": 10
-                }
-            ]
-        },
-        {
-            "atomType": "Translate",
-            "name": "Translate",
-            "x": 0.4166031987814166,
-            "y": 0.8746355685131195,
-            "uniqueID": 477310,
-            "ioValues": [
-                {
-                    "name": "xDist",
-                    "ioValue": 27
-                },
-                {
-                    "name": "yDist",
-                    "ioValue": 17.5
-                },
-                {
-                    "name": "zDist",
-                    "ioValue": 13
                 }
             ]
         },
