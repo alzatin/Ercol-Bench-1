@@ -322,6 +322,305 @@
             ]
         },
         {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 0.16527037319116525,
+            "y": 0.868804664723032,
+            "uniqueID": 544387,
+            "ioValues": [
+                {
+                    "name": "undercarriage length",
+                    "ioValue": 50
+                },
+                {
+                    "name": "Undercarriage width",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Undercarriage width",
+                    "x": 0.013333333333333334,
+                    "y": 0.3469387755102041,
+                    "uniqueID": 232776,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.32216298552932215,
+                    "y": 0.1924198250728863,
+                    "uniqueID": 894071,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "SPINDLE",
+                    "x": 0.19801980198019803,
+                    "y": 0.3498542274052478,
+                    "uniqueID": 827074,
+                    "projectID": "273768522",
+                    "ioValues": [
+                        {
+                            "name": "tenon",
+                            "ioValue": 0.75
+                        },
+                        {
+                            "name": "widest spindle diameterÃÂ ",
+                            "ioValue": 1.5
+                        },
+                        {
+                            "name": "spindle length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.32216298552932215,
+                    "y": 0.4314868804664723,
+                    "uniqueID": 531754,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "undercarriage length",
+                    "x": 0.013333333333333334,
+                    "y": 0.5976676384839651,
+                    "uniqueID": 274756,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.46763137852246767,
+                    "y": 0.5393586005830904,
+                    "uniqueID": 282879,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 50
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "SPINDLE",
+                    "x": 0.2025894897182026,
+                    "y": 0.7113702623906705,
+                    "uniqueID": 847456,
+                    "projectID": "273768522",
+                    "ioValues": [
+                        {
+                            "name": "tenon",
+                            "ioValue": 0.75
+                        },
+                        {
+                            "name": "widest spindle diameterÃÂ ",
+                            "ioValue": 1.5
+                        },
+                        {
+                            "name": "spindle length",
+                            "ioValue": 50
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.31226199543031224,
+                    "y": 0.7725947521865889,
+                    "uniqueID": 727075,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 0.6984006092916984,
+                    "y": 0.45772594752186585,
+                    "uniqueID": 468806,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 1",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 2",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 3",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.476009139375476,
+                    "y": 0.8134110787172012,
+                    "uniqueID": 263394,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 25
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9847677075399847,
+                    "y": 0.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "spindle length",
+                    "ap2Primary": false,
+                    "ap1ID": 232776,
+                    "ap2ID": 827074
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 2",
+                    "ap2Primary": false,
+                    "ap1ID": 894071,
+                    "ap2ID": 468806
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 827074,
+                    "ap2ID": 894071
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 827074,
+                    "ap2ID": 531754
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 531754,
+                    "ap2ID": 282879
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "xDist",
+                    "ap2Primary": false,
+                    "ap1ID": 274756,
+                    "ap2ID": 282879
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "spindle length",
+                    "ap2Primary": false,
+                    "ap1ID": 274756,
+                    "ap2ID": 847456
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 1",
+                    "ap2Primary": false,
+                    "ap1ID": 282879,
+                    "ap2ID": 468806
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 847456,
+                    "ap2ID": 727075
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 727075,
+                    "ap2ID": 263394
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 468806
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 263394,
+                    "ap2ID": 468806
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
             "atomType": "Translate",
             "name": "Translate",
             "x": 0.638994668697639,
