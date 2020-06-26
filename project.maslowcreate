@@ -26,8 +26,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.15003808073115005,
-            "y": 0.34110787172011664,
+            "x": 0.1447067783701447,
+            "y": 0.3469387755102041,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
@@ -48,8 +48,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.3457730388423458,
-            "y": 0.2040816326530612,
+            "x": 0.348057882711348,
+            "y": 0.19825072886297376,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
@@ -59,7 +59,7 @@
                 },
                 {
                     "name": "x distance",
-                    "ioValue": 7
+                    "ioValue": 3.5
                 },
                 {
                     "name": "y distance",
@@ -121,8 +121,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Erco Bench Back",
-            "x": 0.23305407463823305,
-            "y": 0.7463556851311953,
+            "x": 0.22315308453922314,
+            "y": 0.7580174927113703,
             "uniqueID": 655005,
             "projectID": "275013729",
             "ioValues": []
@@ -130,8 +130,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.6656511805026656,
-            "y": 0.5160349854227405,
+            "x": 0.6648895658796649,
+            "y": 0.5889212827988338,
             "uniqueID": 910375,
             "ioValues": [
                 {
@@ -151,8 +151,8 @@
         {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.43716679360243715,
-            "y": 0.8629737609329446,
+            "x": 0.4166031987814166,
+            "y": 0.8746355685131195,
             "uniqueID": 477310,
             "ioValues": [
                 {
@@ -161,11 +161,11 @@
                 },
                 {
                     "name": "yDist",
-                    "ioValue": 10
+                    "ioValue": 17.5
                 },
                 {
                     "name": "zDist",
-                    "ioValue": 15
+                    "ioValue": 13
                 }
             ]
         },
