@@ -26,8 +26,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.1447067783701447,
-            "y": 0.3469387755102041,
+            "x": 0.1436265709156194,
+            "y": 0.34402332361516036,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
@@ -48,8 +48,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.34709754637941354,
-            "y": 0.21574344023323616,
+            "x": 0.34769599042489524,
+            "y": 0.23323615160349856,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
@@ -64,36 +64,6 @@
                 {
                     "name": "y distance",
                     "ioValue": 0
-                }
-            ]
-        },
-        {
-            "atomType": "GitHubMolecule",
-            "name": "seat 1",
-            "x": 0.27494287890327496,
-            "y": 0.39941690962099125,
-            "uniqueID": 221222,
-            "projectID": "274257660",
-            "ioValues": [
-                {
-                    "name": "Seat taper",
-                    "ioValue": 7
-                },
-                {
-                    "name": "Seat Length",
-                    "ioValue": 50
-                },
-                {
-                    "name": "Distance betw. seat dentsÃÂ ",
-                    "ioValue": 10
-                },
-                {
-                    "name": "Seat dent width",
-                    "ioValue": 19
-                },
-                {
-                    "name": "Seat side width",
-                    "ioValue": 20
                 }
             ]
         },
@@ -120,40 +90,40 @@
         },
         {
             "atomType": "GitHubMolecule",
-            "name": "Erco Bench Back",
-            "x": 0.2232196289646918,
-            "y": 0.7463556851311953,
-            "uniqueID": 655005,
-            "projectID": "275013729",
-            "ioValues": []
-        },
-        {
-            "atomType": "Translate",
-            "name": "Translate",
-            "x": 0.39796529024536204,
-            "y": 0.7784256559766763,
-            "uniqueID": 477310,
+            "name": "seat 1",
+            "x": 0.2926391382405745,
+            "y": 0.4693877551020408,
+            "uniqueID": 221222,
+            "projectID": "274257660",
             "ioValues": [
                 {
-                    "name": "xDist",
-                    "ioValue": -5
+                    "name": "Seat taper",
+                    "ioValue": 7
                 },
                 {
-                    "name": "yDist",
-                    "ioValue": 17.5
+                    "name": "Seat Length",
+                    "ioValue": 50
                 },
                 {
-                    "name": "zDist",
-                    "ioValue": 13
+                    "name": "Distance betw. seat dentsÃÂ ",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Seat dent width",
+                    "ioValue": 19
+                },
+                {
+                    "name": "Seat side width",
+                    "ioValue": 20
                 }
             ]
         },
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.6714542190305207,
-            "y": 0.6064139941690962,
-            "uniqueID": 910375,
+            "x": 0.6163973668461998,
+            "y": 0.45772594752186585,
+            "uniqueID": 516327,
             "ioValues": [
                 {
                     "name": "3D shape 1",
@@ -166,6 +136,36 @@
                 {
                     "name": "3D shape 3",
                     "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "GitHubMolecule",
+            "name": "Erco Bench Back",
+            "x": 0.21304608019150212,
+            "y": 0.7405247813411079,
+            "uniqueID": 655005,
+            "projectID": "275013729",
+            "ioValues": []
+        },
+        {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.3985637342908438,
+            "y": 0.8163265306122448,
+            "uniqueID": 477310,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": 25
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 17.5
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 13
                 }
             ]
         },
@@ -200,18 +200,18 @@
             "ap2ID": 781908
         },
         {
-            "ap1Name": "Geometry",
+            "ap1Name": "geometry",
             "ap2Name": "3D shape 1",
             "ap2Primary": false,
-            "ap1ID": 221222,
-            "ap2ID": 910375
+            "ap1ID": 781908,
+            "ap2ID": 516327
         },
         {
-            "ap1Name": "geometry",
+            "ap1Name": "Geometry",
             "ap2Name": "3D shape 2",
             "ap2Primary": false,
-            "ap1ID": 781908,
-            "ap2ID": 910375
+            "ap1ID": 221222,
+            "ap2ID": 516327
         },
         {
             "ap1Name": "Geometry",
@@ -225,7 +225,7 @@
             "ap2Name": "3D shape 3",
             "ap2Primary": false,
             "ap1ID": 477310,
-            "ap2ID": 910375
+            "ap2ID": 516327
         }
     ],
     "fileTypeVersion": 1,
