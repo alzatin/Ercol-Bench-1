@@ -26,8 +26,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.15384615384615385,
-            "y": 0.35568513119533524,
+            "x": 0.15003808073115005,
+            "y": 0.34110787172011664,
             "uniqueID": 581054,
             "projectID": "273768522",
             "ioValues": [
@@ -48,18 +48,18 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.3533891850723534,
-            "y": 0.23906705539358603,
+            "x": 0.3457730388423458,
+            "y": 0.2040816326530612,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 16
+                    "ioValue": 13
                 },
                 {
                     "name": "x distance",
-                    "ioValue": 3
+                    "ioValue": 7
                 },
                 {
                     "name": "y distance",
@@ -100,8 +100,8 @@
         {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.46382330540746386,
-            "y": 0.2040816326530612,
+            "x": 0.4668697638994669,
+            "y": 0.18075801749271136,
             "uniqueID": 781908,
             "ioValues": [
                 {
@@ -119,10 +119,19 @@
             ]
         },
         {
+            "atomType": "GitHubMolecule",
+            "name": "Erco Bench Back",
+            "x": 0.23305407463823305,
+            "y": 0.7463556851311953,
+            "uniqueID": 655005,
+            "projectID": "275013729",
+            "ioValues": []
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.5932977913175933,
-            "y": 0.282798833819242,
+            "x": 0.6656511805026656,
+            "y": 0.5160349854227405,
             "uniqueID": 910375,
             "ioValues": [
                 {
@@ -132,6 +141,31 @@
                 {
                     "name": "3D shape 2",
                     "ioValue": 10
+                },
+                {
+                    "name": "3D shape 3",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.43716679360243715,
+            "y": 0.8629737609329446,
+            "uniqueID": 477310,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": 27
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 10
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 15
                 }
             ]
         },
@@ -177,6 +211,20 @@
             "ap2Name": "3D shape 2",
             "ap2Primary": false,
             "ap1ID": 781908,
+            "ap2ID": 910375
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 655005,
+            "ap2ID": 477310
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 3",
+            "ap2Primary": false,
+            "ap1ID": 477310,
             "ap2ID": 910375
         }
     ],
