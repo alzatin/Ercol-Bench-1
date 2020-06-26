@@ -37,7 +37,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 10
+                    "ioValue": 1.5
                 },
                 {
                     "name": "spindle length",
@@ -55,7 +55,7 @@
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 3
+                    "ioValue": 13
                 },
                 {
                     "name": "x distance",
@@ -149,32 +149,87 @@
             ]
         },
         {
+            "atomType": "Rotate",
+            "name": "Rotate",
+            "x": 0.27875095201827876,
+            "y": 0.641399416909621,
+            "uniqueID": 149722,
+            "ioValues": [
+                {
+                    "name": "x-axis degrees",
+                    "ioValue": -13
+                },
+                {
+                    "name": "y-axis degrees",
+                    "ioValue": 13
+                },
+                {
+                    "name": "z-axis degrees",
+                    "ioValue": 0
+                }
+            ]
+        },
+        {
             "atomType": "GitHubMolecule",
             "name": "SPINDLE",
-            "x": 0.15613099771515612,
-            "y": 0.8192419825072886,
+            "x": 0.1728865194211729,
+            "y": 0.7230320699708455,
             "uniqueID": 983986,
             "projectID": "273768522",
             "ioValues": [
                 {
                     "name": "tenon",
-                    "ioValue": 0.5
+                    "ioValue": 0.75
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 10
+                    "ioValue": 2
                 },
                 {
                     "name": "spindle length",
-                    "ioValue": 15
+                    "ioValue": 17
+                }
+            ]
+        },
+        {
+            "atomType": "Rotate",
+            "name": "Rotate",
+            "x": 0.2772277227722772,
+            "y": 0.7988338192419825,
+            "uniqueID": 831584,
+            "ioValues": [
+                {
+                    "name": "x-axis degrees",
+                    "ioValue": 13
+                },
+                {
+                    "name": "y-axis degrees",
+                    "ioValue": 13
+                },
+                {
+                    "name": "z-axis degrees",
+                    "ioValue": 0
                 }
             ]
         },
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.7387661843107387,
-            "y": 0.4927113702623907,
+            "x": 0.5003808073115004,
+            "y": 0.7230320699708455,
+            "uniqueID": 918151,
+            "ioValues": [
+                {
+                    "name": "3D shape 1",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.753998476770754,
+            "y": 0.45772594752186585,
             "uniqueID": 516327,
             "ioValues": [
                 {
@@ -188,6 +243,31 @@
                 {
                     "name": "3D shape 3",
                     "ioValue": 10
+                },
+                {
+                    "name": "3D shape 4",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.40441736481340446,
+            "y": 0.8483965014577259,
+            "uniqueID": 221577,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": 2
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 18
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": -6
                 }
             ]
         },
@@ -248,6 +328,41 @@
             "ap2Primary": false,
             "ap1ID": 477310,
             "ap2ID": 516327
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 983986,
+            "ap2ID": 831584
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 983986,
+            "ap2ID": 149722
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 831584,
+            "ap2ID": 221577
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 4",
+            "ap2Primary": false,
+            "ap1ID": 918151,
+            "ap2ID": 516327
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 1",
+            "ap2Primary": false,
+            "ap1ID": 221577,
+            "ap2ID": 918151
         }
     ],
     "fileTypeVersion": 1,
