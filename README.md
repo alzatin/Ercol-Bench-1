@@ -4,9 +4,12 @@
 
 ![](/project.svg)
 
-Repeat geometry in a straight line
+Ercol Bench 1Readme text here
 
 
-Seat width distances are not well designed, will probably break if changed.
+Linear RepeatRepeat geometry in a straight line
+
+
+seat 1Seat width distances are not well designed, will probably break if changed.
 
 

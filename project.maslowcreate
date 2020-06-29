@@ -46,6 +46,15 @@
             ]
         },
         {
+            "atomType": "Readme",
+            "name": "README",
+            "x": 0.06727828746177371,
+            "y": 0.3827160493827161,
+            "uniqueID": 148590,
+            "ioValues": [],
+            "readmeText": "Readme text here"
+        },
+        {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
             "x": 0.3511043412033511,
