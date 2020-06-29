@@ -4,12 +4,21 @@
 
 ![](/project.svg)
 
-<h3 style="font-size:20px;"><strong>Ercol Bench 1:</strong></h3>Readme text here
+## Ercol Bench 1
 
 
-<h3 style="font-size:20px;"><strong>Linear Repeat:</strong></h3>Repeat geometry in a straight line
+Readme text here
 
 
-<h3 style="font-size:20px;"><strong>seat 1:</strong></h3>Seat width distances are not well designed, will probably break if changed.
+## Linear Repeat
+
+
+Repeat geometry in a straight line
+
+
+## seat 1
+
+
+Seat width distances are not well designed, will probably break if changed.
 
 
