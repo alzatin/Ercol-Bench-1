@@ -37,7 +37,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 1.5
+                    "ioValue": 10
                 },
                 {
                     "name": "spindle length",
@@ -55,7 +55,7 @@
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 13
+                    "ioValue": 3
                 },
                 {
                     "name": "x distance",
@@ -93,7 +93,7 @@
                     "ioValue": 50
                 },
                 {
-                    "name": "Distance betw. seat dentsÃÂ ",
+                    "name": "Distance betw. seat dents.",
                     "ioValue": 10
                 },
                 {
@@ -183,7 +183,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 2
+                    "ioValue": 10
                 },
                 {
                     "name": "spindle length",
@@ -354,12 +354,12 @@
             "uniqueID": 544387,
             "ioValues": [
                 {
-                    "name": "undercarriage length",
-                    "ioValue": 51.2
-                },
-                {
                     "name": "Undercarriage width",
                     "ioValue": 16
+                },
+                {
+                    "name": "undercarriage length",
+                    "ioValue": 51.2
                 }
             ],
             "topLevel": false,
@@ -407,7 +407,7 @@
                         },
                         {
                             "name": "widest spindle diameterÃÂ ",
-                            "ioValue": 1.5
+                            "ioValue": 10
                         },
                         {
                             "name": "spindle length",
@@ -479,7 +479,7 @@
                         },
                         {
                             "name": "widest spindle diameterÃÂ ",
-                            "ioValue": 1.5
+                            "ioValue": 10
                         },
                         {
                             "name": "spindle length",
