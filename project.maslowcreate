@@ -69,15 +69,6 @@
         },
         {
             "atomType": "GitHubMolecule",
-            "name": "Erco Bench Back",
-            "x": 0.09900990099009901,
-            "y": 0.44897959183673475,
-            "uniqueID": 655005,
-            "projectID": "275013729",
-            "ioValues": []
-        },
-        {
-            "atomType": "GitHubMolecule",
             "name": "seat 1",
             "x": 0.2985529322162985,
             "y": 0.3498542274052478,
@@ -126,6 +117,15 @@
                     "ioValue": 7
                 }
             ]
+        },
+        {
+            "atomType": "GitHubMolecule",
+            "name": "Erco Bench Back",
+            "x": 0.0863914373088685,
+            "y": 0.5555555555555556,
+            "uniqueID": 655005,
+            "projectID": "275013729",
+            "ioValues": []
         },
         {
             "atomType": "Translate",
@@ -719,13 +719,6 @@
         },
         {
             "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 655005,
-            "ap2ID": 477310
-        },
-        {
-            "ap1Name": "Geometry",
             "ap2Name": "3D shape 2",
             "ap2Primary": false,
             "ap1ID": 221222,
@@ -737,6 +730,13 @@
             "ap2Primary": false,
             "ap1ID": 781908,
             "ap2ID": 516327
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 655005,
+            "ap2ID": 477310
         },
         {
             "ap1Name": "geometry",
