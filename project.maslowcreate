@@ -63,10 +63,6 @@
             "projectID": "257972737",
             "ioValues": [
                 {
-                    "name": "Geometry",
-                    "ioValue": 10
-                },
-                {
                     "name": "repeats",
                     "ioValue": 3
                 },
@@ -148,10 +144,6 @@
             "uniqueID": 477310,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "xDist",
                     "ioValue": 27
                 },
@@ -172,10 +164,6 @@
             "y": 0.5685131195335277,
             "uniqueID": 149722,
             "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
                 {
                     "name": "x-axis degrees",
                     "ioValue": -10
@@ -220,10 +208,6 @@
             "uniqueID": 266971,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "xDist",
                     "ioValue": 1
                 },
@@ -262,10 +246,6 @@
             "uniqueID": 831584,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "x-axis degrees",
                     "ioValue": 13
                 },
@@ -287,10 +267,6 @@
             "uniqueID": 176248,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "x-axis degrees",
                     "ioValue": 0
                 },
@@ -311,10 +287,6 @@
             "y": 0.7521865889212829,
             "uniqueID": 221577,
             "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
                 {
                     "name": "xDist",
                     "ioValue": 2
@@ -370,10 +342,6 @@
             "uniqueID": 871527,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "xDist",
                     "ioValue": 49.5
                 },
@@ -421,10 +389,6 @@
                     "uniqueID": 894071,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 90
                         },
@@ -468,10 +432,6 @@
                     "uniqueID": 531754,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 90
                         },
@@ -500,10 +460,6 @@
                     "y": 0.5393586005830904,
                     "uniqueID": 282879,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 51.2
@@ -548,10 +504,6 @@
                     "uniqueID": 727075,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 0
                         },
@@ -593,10 +545,6 @@
                     "y": 0.8134110787172012,
                     "uniqueID": 263394,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 25
@@ -721,10 +669,6 @@
             "uniqueID": 504906,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "xDist",
                     "ioValue": 1.3
                 },
@@ -745,10 +689,6 @@
             "y": 0.8746355685131195,
             "uniqueID": 643473,
             "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
                 {
                     "name": "x-axis degrees",
                     "ioValue": 0
