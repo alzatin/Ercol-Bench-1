@@ -16,7 +16,7 @@
             "ioValues": [
                 {
                     "name": "number",
-                    "ioValue": 3
+                    "ioValue": 13
                 }
             ],
             "evolve": false,
@@ -26,14 +26,14 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.3209408194233688,
-            "y": 0.15135135135135136,
+            "x": 0.3194233687405159,
+            "y": 0.14324324324324325,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 3
+                    "ioValue": 13
                 },
                 {
                     "name": "x distance",
@@ -304,7 +304,7 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.8846737481031866,
+            "x": 0.8808801213960546,
             "y": 0.3027027027027027,
             "uniqueID": 516327,
             "ioValues": [
