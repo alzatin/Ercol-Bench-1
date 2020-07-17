@@ -37,7 +37,7 @@
                 },
                 {
                     "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 1
+                    "ioValue": 5
                 },
                 {
                     "name": "spindle length",
@@ -57,14 +57,14 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Linear Repeat",
-            "x": 0.3482549317147193,
-            "y": 0.20810810810810812,
+            "x": 0.3511043412033511,
+            "y": 0.19533527696793002,
             "uniqueID": 852223,
             "projectID": "257972737",
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 13
+                    "ioValue": 3
                 },
                 {
                     "name": "x distance",
