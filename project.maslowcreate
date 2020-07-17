@@ -16,7 +16,7 @@
             "ioValues": [
                 {
                     "name": "number",
-                    "ioValue": 13
+                    "ioValue": 3
                 }
             ],
             "evolve": false,
@@ -33,7 +33,7 @@
             "ioValues": [
                 {
                     "name": "repeats",
-                    "ioValue": 13
+                    "ioValue": 3
                 },
                 {
                     "name": "x distance",
