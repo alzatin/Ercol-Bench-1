@@ -16,7 +16,7 @@
             "ioValues": [
                 {
                     "name": "number",
-                    "ioValue": 3
+                    "ioValue": 13
                 }
             ],
             "evolve": false,
