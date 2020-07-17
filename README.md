@@ -4,10 +4,10 @@
 
 ![](/project.svg)
 
-<h3 style="font-size:20px;"><strong>Ercol Bench 1:</strong></h3>Readme text here
-
-
 <h3 style="font-size:20px;"><strong>Linear Repeat:</strong></h3>Repeat geometry in a straight line
+
+
+<h3 style="font-size:20px;"><strong>Ercol Bench 1:</strong></h3>Readme text here
 
 
 <h3 style="font-size:20px;"><strong>seat 1:</strong></h3>Seat width distances are not well designed, will probably break if changed.

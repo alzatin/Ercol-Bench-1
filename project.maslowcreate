@@ -25,6 +25,28 @@
         },
         {
             "atomType": "GitHubMolecule",
+            "name": "Linear Repeat",
+            "x": 0.3209408194233688,
+            "y": 0.15135135135135136,
+            "uniqueID": 852223,
+            "projectID": "257972737",
+            "ioValues": [
+                {
+                    "name": "repeats",
+                    "ioValue": 13
+                },
+                {
+                    "name": "x distance",
+                    "ioValue": 3.5
+                },
+                {
+                    "name": "y distance",
+                    "ioValue": 0
+                }
+            ]
+        },
+        {
+            "atomType": "GitHubMolecule",
             "name": "SPINDLE",
             "x": 0.1436265709156194,
             "y": 0.34402332361516036,
@@ -36,8 +58,8 @@
                     "ioValue": 0.5
                 },
                 {
-                    "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 5
+                    "name": "Widest Spindle diam",
+                    "ioValue": 1
                 },
                 {
                     "name": "spindle length",
@@ -53,28 +75,6 @@
             "uniqueID": 148590,
             "ioValues": [],
             "readmeText": "Readme text here"
-        },
-        {
-            "atomType": "GitHubMolecule",
-            "name": "Linear Repeat",
-            "x": 0.3511043412033511,
-            "y": 0.19533527696793002,
-            "uniqueID": 852223,
-            "projectID": "257972737",
-            "ioValues": [
-                {
-                    "name": "repeats",
-                    "ioValue": 3
-                },
-                {
-                    "name": "x distance",
-                    "ioValue": 3.5
-                },
-                {
-                    "name": "y distance",
-                    "ioValue": 0
-                }
-            ]
         },
         {
             "atomType": "GitHubMolecule",
@@ -191,8 +191,8 @@
                     "ioValue": 0.75
                 },
                 {
-                    "name": "widest spindle diameterÃÂ ",
-                    "ioValue": 5
+                    "name": "Widest Spindle diam",
+                    "ioValue": 1
                 },
                 {
                     "name": "spindle length",
@@ -304,8 +304,8 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.8134044173648134,
-            "y": 0.39941690962099125,
+            "x": 0.8846737481031866,
+            "y": 0.3027027027027027,
             "uniqueID": 516327,
             "ioValues": [
                 {
@@ -415,8 +415,8 @@
                             "ioValue": 0.75
                         },
                         {
-                            "name": "widest spindle diameterÃÂ ",
-                            "ioValue": 5
+                            "name": "Widest Spindle diam",
+                            "ioValue": 1
                         },
                         {
                             "name": "spindle length",
@@ -487,8 +487,8 @@
                             "ioValue": 0.75
                         },
                         {
-                            "name": "widest spindle diameterÃÂ ",
-                            "ioValue": 5
+                            "name": "Widest Spindle diam",
+                            "ioValue": 1
                         },
                         {
                             "name": "spindle length",
@@ -714,17 +714,17 @@
         },
         {
             "ap1Name": "Geometry",
-            "ap2Name": "Geometry",
-            "ap2Primary": false,
-            "ap1ID": 581054,
-            "ap2ID": 852223
-        },
-        {
-            "ap1Name": "Geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
             "ap1ID": 852223,
             "ap2ID": 781908
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "Geometry",
+            "ap2Primary": false,
+            "ap1ID": 581054,
+            "ap2ID": 852223
         },
         {
             "ap1Name": "Geometry",
