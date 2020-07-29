@@ -32,10 +32,6 @@
             "projectID": "257972737",
             "ioValues": [
                 {
-                    "name": "Geometry",
-                    "ioValue": 10
-                },
-                {
                     "name": "repeats",
                     "ioValue": 13
                 },
@@ -173,10 +169,6 @@
             "uniqueID": 149722,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
-                {
                     "name": "x-axis degrees",
                     "ioValue": -10
                 },
@@ -261,10 +253,6 @@
             "y": 0.7463556851311953,
             "uniqueID": 831584,
             "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": ""
-                },
                 {
                     "name": "x-axis degrees",
                     "ioValue": 13
@@ -421,10 +409,6 @@
                     "uniqueID": 894071,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
-                        {
                             "name": "x-axis degrees",
                             "ioValue": 90
                         },
@@ -467,10 +451,6 @@
                     "y": 0.4314868804664723,
                     "uniqueID": 531754,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 90
@@ -547,10 +527,6 @@
                     "y": 0.7725947521865889,
                     "uniqueID": 727075,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "x-axis degrees",
                             "ioValue": 0
